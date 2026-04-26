@@ -55,7 +55,7 @@ import android.util.SizeF;
 import android.view.View;
 import android.widget.RemoteViews;
 
-import com.android.internal.util.android.OmniJawsClient;
+import com.android.internal.util.losp.OmniJawsClient;
 
 import org.omnirom.omnijaws.Config;
 import org.omnirom.omnijaws.R;

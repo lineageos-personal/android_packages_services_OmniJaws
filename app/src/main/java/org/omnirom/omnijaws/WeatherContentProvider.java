@@ -15,7 +15,7 @@
  */
 package org.omnirom.omnijaws;
 
-import com.android.internal.util.android.OmniJawsClient;
+import com.android.internal.util.losp.OmniJawsClient;
 
 import org.omnirom.omnijaws.WeatherInfo.DayForecast;
 

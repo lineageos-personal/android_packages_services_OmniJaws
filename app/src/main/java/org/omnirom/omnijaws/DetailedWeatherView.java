@@ -31,7 +31,7 @@ import android.widget.TextView;
 
 import org.omnirom.omnijaws.icon.IconProvider;
 
-import com.android.internal.util.android.OmniJawsClient;
+import com.android.internal.util.losp.OmniJawsClient;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

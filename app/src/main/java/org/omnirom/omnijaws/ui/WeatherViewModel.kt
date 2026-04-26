@@ -21,7 +21,7 @@ import android.graphics.drawable.Drawable
 import android.net.Uri
 import android.util.Log
 import androidx.lifecycle.AndroidViewModel
-import com.android.internal.util.android.OmniJawsClient
+import com.android.internal.util.losp.OmniJawsClient
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
